@@ -5,25 +5,25 @@ Result
 
  Result addArrayListTime = 3656 ms
 
- Result addLinkedListTime = 5288 ms  -> Вывод: добавление элементов быстрее у ArrayList
+ Result addLinkedListTime = 5288 ms  -> Р’С‹РІРѕРґ: РґРѕР±Р°РІР»РµРЅРёРµ СЌР»РµРјРµРЅС‚РѕРІ Р±С‹СЃС‚СЂРµРµ Сѓ ArrayList
 
 ---Insert element  ----
 
  Result InsertArrayListTime = 5 ms
 
- Result InsertLinkedListTime = 27 ms -> Вывод: вставка элемента быстрее у ArrayList
+ Result InsertLinkedListTime = 27 ms -> Р’С‹РІРѕРґ: РІСЃС‚Р°РІРєР° СЌР»РµРјРµРЅС‚Р° Р±С‹СЃС‚СЂРµРµ Сѓ ArrayList
 
 ---Search elements ----
 
  Result SearchArrayListTime = 16 ms
 
- Result SearchLinkedListTime = 26 ms -> Вывод: поиск элемента быстрее у ArrayList 
+ Result SearchLinkedListTime = 26 ms -> Р’С‹РІРѕРґ: РїРѕРёСЃРє СЌР»РµРјРµРЅС‚Р° Р±С‹СЃС‚СЂРµРµ Сѓ ArrayList 
 
 ---Delete elements ----
 
  Result DeleteArrayListTime = 9122148 nano sec
 
- Result DeleteLinkedListTime = 405607 nano sec -> Вывод: удаление элемента быстрее у LinkedList
+ Result DeleteLinkedListTime = 405607 nano sec -> Р’С‹РІРѕРґ: СѓРґР°Р»РµРЅРёРµ СЌР»РµРјРµРЅС‚Р° Р±С‹СЃС‚СЂРµРµ Сѓ LinkedList
 
 
 
@@ -32,26 +32,26 @@ Result
 
  Result addTreeSetTime = 794 ms
 
- Result addHashSetTime = 109 ms -> Вывод: добавление элементов быстрее у HashSet
+ Result addHashSetTime = 109 ms -> Р’С‹РІРѕРґ: РґРѕР±Р°РІР»РµРЅРёРµ СЌР»РµРјРµРЅС‚РѕРІ Р±С‹СЃС‚СЂРµРµ Сѓ HashSet
 
 
 ---Insert element  ----
 
  Result InsertTreeSetTime = 143486 nano sec
 
- Result InsertHashSetTime = 79442 nano sec -> Вывод: вставка элемента быстрее у HashSet
+ Result InsertHashSetTime = 79442 nano sec -> Р’С‹РІРѕРґ: РІСЃС‚Р°РІРєР° СЌР»РµРјРµРЅС‚Р° Р±С‹СЃС‚СЂРµРµ Сѓ HashSet
 
 ---Search elements ----
 
  Result SearchTreeSetTime = 25548 nano sec
 
- Result SearchHashSetTime = 32547 nano sec -> Вывод:поиск элемента быстрее у TreeSet
+ Result SearchHashSetTime = 32547 nano sec -> Р’С‹РІРѕРґ:РїРѕРёСЃРє СЌР»РµРјРµРЅС‚Р° Р±С‹СЃС‚СЂРµРµ Сѓ TreeSet
 
 ---Delete elements ----
 
  Result DeleteTreeSetTime = 20647 nano sec
 
- Result DeleteHashSetTime = 19598 nano sec -> Вывод: удаление элемента быстрее у HashSet
+ Result DeleteHashSetTime = 19598 nano sec -> Р’С‹РІРѕРґ: СѓРґР°Р»РµРЅРёРµ СЌР»РµРјРµРЅС‚Р° Р±С‹СЃС‚СЂРµРµ Сѓ HashSet
 
 
 
@@ -62,22 +62,22 @@ Result
 
  Result addTreeMapTime = 36 ms
 
- Result addHashMapTime = 31 ms -> Вывод: добавление элементов быстрее у HashMap
+ Result addHashMapTime = 31 ms -> Р’С‹РІРѕРґ: РґРѕР±Р°РІР»РµРЅРёРµ СЌР»РµРјРµРЅС‚РѕРІ Р±С‹СЃС‚СЂРµРµ Сѓ HashMap
 
 ---Insert elements ----
 
  Result InsertTreeMapTime = 5250 nano sec
 
- Result InsertHashMapTime = 6999 nano sec -> Вывод: вставка элемента быстрее у TreeMap
+ Result InsertHashMapTime = 6999 nano sec -> Р’С‹РІРѕРґ: РІСЃС‚Р°РІРєР° СЌР»РµРјРµРЅС‚Р° Р±С‹СЃС‚СЂРµРµ Сѓ TreeMap
 
 ---Search elements ----
 
  Result SearchTreeMapTime = 24794562 nano sec
 
- Result SearchHashMapTime = 3931839 nano sec -> Вывод: поиск элемента быстрее у HashMap
+ Result SearchHashMapTime = 3931839 nano sec -> Р’С‹РІРѕРґ: РїРѕРёСЃРє СЌР»РµРјРµРЅС‚Р° Р±С‹СЃС‚СЂРµРµ Сѓ HashMap
 
 ---Delete elements ----
 
  Result DeleteTreeMapTime = 51095 nano sec
 
- Result DeleteHashMapTime = 5949 nano sec -> Вывод: удаление элемента быстрее у HashMap
+ Result DeleteHashMapTime = 5949 nano sec -> Р’С‹РІРѕРґ: СѓРґР°Р»РµРЅРёРµ СЌР»РµРјРµРЅС‚Р° Р±С‹СЃС‚СЂРµРµ Сѓ HashMap
